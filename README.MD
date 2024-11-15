@@ -27,7 +27,7 @@ This repository contains a machine learning project for predicting crop yield ba
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/winter000boy/crop-yield-prediction.git
+   git clone https://github.com/winter000boy/Crop-Yeild-Prediction.git
    cd crop-yield-prediction
 
 
