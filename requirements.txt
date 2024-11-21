@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 flask
+pickle
+
+
+#versions doesn't matter that much
